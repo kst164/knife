@@ -1,0 +1,13 @@
+{
+  "name": "knife-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@keyv/sqlite": "^2.0.3",
+    "discord.js": "^13.3.1",
+    "express": "^4.17.1",
+    "keyv": "^4.0.4"
+  },
+  "devDependencies": {}
+}
